@@ -1,4 +1,4 @@
-# Susu Group Tracker (plain JavaScript)
+# Susu Group Tracker 
 
 A small program that manages one rotating savings group (susu).
 Written in plain JavaScript only: no Node.js, no npm, no libraries.
