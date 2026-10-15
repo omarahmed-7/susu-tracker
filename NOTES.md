@@ -8,7 +8,7 @@
   The susu is complete after every member has received it once.
 - The currency is GHS and has 2 decimal places.
 
-## Decisions (things the instructions did not cover)
+## Decisions 
 1. **Adding members after week 1 has started:** not allowed. The roster is locked
    as soon as the first contribution is recorded. Reason: adding someone later
    would change the pot size and the payout order for people who already paid.
